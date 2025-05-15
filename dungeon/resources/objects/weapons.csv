@@ -1,0 +1,16 @@
+Name,Rarity,Cost,Damage,Critical
+Club,Common,50,1d4,5
+Sickle,Common,55,1d4,10
+Dagger,Common,60,1d4,15
+Spear,Uncommon,100,1d6,5
+Handaxe,Uncommon,110,1d6,10
+Shortsword,Uncommon,120,1d6,15
+Warhammer,Rare,150,1d8,5
+Battleaxe,Rare,165,1d8,10
+Longsword,Rare,180,1d8,15
+Pike,Epic,200,1d10,5
+Glaive,Epic,220,1d10,10
+Halberd,Epic,240,1d10,15
+Lance,Legendary,250,1d12,5
+Greataxe,Legendary,275,1d12,10
+Greatsword,Legendary,300,2d6,15

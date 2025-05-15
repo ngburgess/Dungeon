@@ -1,0 +1,10 @@
+Name,Class,Gold,Mana
+Fortitude,Paladin,100,4
+Healing,Paladin,150,6
+Revival,Paladin,250,10
+Enchantment,Fighter,150,6
+Sharpening,Fighter,150,6
+Might,Fighter,200,8
+Fortune,Rogue,100,4
+Precision,Rogue,200,8
+Stealth,Rogue,200,8

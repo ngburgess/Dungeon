@@ -1,0 +1,11 @@
+Name,Rarity,Cost,Bonus
+Padded,Common,50,1
+Leather,Common,100,2
+Hide,Uncommon,150,3
+Ring Mail,Uncommon,200,4
+Chain Shirt,Rare,250,5
+Scale Mail,Rare,300,6
+Chain Mail,Epic,350,7
+Breastplate,Epic,400,8
+Half Plate,Legendary,450,9
+Plate,Legendary,500,10
